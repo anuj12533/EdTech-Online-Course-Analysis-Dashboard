@@ -381,7 +381,7 @@ EdTech-Online-Course-Analysis/
 ---
 # 👨‍💻 Author
 
-**RAJAN KUMAR**
+**ANUJ KUSHAWAHA**
 
 Data Analyst | Power BI Developer
 
